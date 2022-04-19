@@ -19,8 +19,8 @@ root.render(
   <React.StrictMode>
     {/* <ThemeProvider theme={darkTheme}> */}
     <ThemeProvider theme={lightTheme}>
-    {/* <App /> */}
     <Theme />
+    {/* <App /> */}
     </ThemeProvider>
   </React.StrictMode>
 );
